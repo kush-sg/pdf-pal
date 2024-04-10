@@ -1,0 +1,7 @@
+streamlit
+google-generativeai ## for google gemini pro
+python-dotenv ## to load all environment variables
+langchain
+PyPDF2 ## to read the pdf
+faiss-cpu
+langchain_google_genai ## with the help of langchain we can use google gen api
